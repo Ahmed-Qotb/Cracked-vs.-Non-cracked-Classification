@@ -34,3 +34,6 @@ Deliverables:
 of the code, screenshots of the output, visualization of the accuracy change, the
 description of hyperparameters used in each model, full analysis of your results.
 • A notebook file (ipynb) 
+
+note please add the data like this 
+<img width="237" height="221" alt="image" src="https://github.com/user-attachments/assets/d3df4337-ecd6-48d3-8a0a-11ec87727b09" />
