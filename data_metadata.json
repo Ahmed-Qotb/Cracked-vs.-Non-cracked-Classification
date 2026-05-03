@@ -1,0 +1,10 @@
+{
+  "cracked_dir": "Cracked",
+  "non_cracked_dir": "Non Cracked",
+  "image_size": 227,
+  "n_cracked": 28484,
+  "n_non_cracked": 67608,
+  "train_size": 76873,
+  "test_size": 19219,
+  "batch_size": 32
+}
